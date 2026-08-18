@@ -12,8 +12,5 @@ jobs:
     steps:
       - uses: actions/add-to-project@v1.0.2
         with:
-          # TODO (configuração única, específica desta disciplina): troque
-          # NUMERO_DO_PROJETO pela URL real do GitHub Project criado para
-          # QXD0007 em https://github.com/orgs/profBruno-UFC-Qx/projects
-          project-url: https://github.com/orgs/profBruno-UFC-Qx/projects/NUMERO_DO_PROJETO
+          project-url: https://github.com/orgs/profBruno-UFC-Qx/projects/7
           github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
