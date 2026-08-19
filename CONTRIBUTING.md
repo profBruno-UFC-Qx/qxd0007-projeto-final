@@ -33,9 +33,11 @@ cd <nome-do-repositorio>
 
 ## 3. Desenvolvimento
 
-Depois da proposta aprovada, desenvolva o projeto livremente. Commits
-diretos em `main` ou PRs intermediários — o que funcionar melhor para a
-equipe.
+Depois da proposta aprovada, desenvolva o projeto livremente em uma ou
+mais branches (a `main` fica protegida o semestre inteiro, então push
+direto nela não funciona). Não é preciso abrir PR nem esperar aprovação
+do professor a cada commit — só quando a equipe abrir o PR de entrega
+final, na etapa 4.
 
 ## 4. Entrega Final
 
